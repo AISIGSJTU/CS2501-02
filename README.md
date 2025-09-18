@@ -13,7 +13,7 @@
 | 章节            | 课件                                                         |
 | --------------- | ------------------------------------------------------------ |
 | 图论第一章 |[Lecture 1 离散数学-图论-Chapter01.pdf](./PDF_Slides/离散数学-图论-Chapter01.pdf)|
-| 图论第二章|[Lecture 1 离散数学-图论-Chapter02.pdf](./PDF_Slides/离散数学-图论-Chapter02.pdf)|
+| 图论第二章|[Lecture 2 离散数学-图论-Chapter02.pdf](./PDF_Slides/离散数学-图论-Chapter02.pdf)|
 | 图论第三章                    |      |
 | 数理逻辑第一章                   |      |
 | 数理逻辑第二章       |      |
