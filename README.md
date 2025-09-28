@@ -15,7 +15,7 @@
 | 图论第一章 |[Lecture 1 离散数学-图论-Chapter01.pdf](./PDF_Slides/离散数学-图论-Chapter01.pdf)|
 | 图论第二章|[Lecture 2 离散数学-图论-Chapter02.pdf](./PDF_Slides/离散数学-图论-Chapter02.pdf)|
 | 图论第三章|[Lecture 3 离散数学-图论-Chapter03.pdf](./PDF_Slides/离散数学-图论-Chapter03.pdf)|
-| 数理逻辑第一章|[Lecture 4 离散数学-数理逻辑-Chapter01.pdf](./PDF_Slides/离散数学Chapter01.pdf)|
+| 数理逻辑第一章|[Lecture 4 离散数学-数理逻辑-Chapter01.pdf](./PDF_Slides/离散数学chapter01.pdf)|
 | 数理逻辑第二章       |      |
 | 数理逻辑第四章                |      |
 | 数理逻辑第五章                |      |
