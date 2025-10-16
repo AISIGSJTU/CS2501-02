@@ -54,6 +54,6 @@
  ![image-2](imgs/2.png)
 5.完全二叉树的定义以PPT上讲的为准
 6.AB都不存在H回路
-![image-3](imgs/3.png)
+![image-3](imgs/3.jpg)
 7.必要条件是D
-![image-4](imgs/4.png)
+![image-4](imgs/4.jpg)
