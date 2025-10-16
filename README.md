@@ -52,7 +52,7 @@
 ![image-1](imgs/1.png)
 4.图论第二章补充题，从Dirac定理来看，BD都可以
  ![image-2](imgs/2.png)
-5.完全二叉树的定义以PPT上讲的为准
+5.完全二叉树的定义以PPT上讲的为准  
 6.AB都不存在H回路
 ![image-3](imgs/3.jpg)
 7.必要条件是D
