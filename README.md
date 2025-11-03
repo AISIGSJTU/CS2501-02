@@ -20,9 +20,9 @@
 | 数理逻辑第二章|[Lecture 5 离散数学-数理逻辑-Chapter02.pdf](./PDF_Slides/离散数学chapter02.pdf)|
 | 数理逻辑第四章|[Lecture 6 离散数学-数理逻辑-Chapter04.pdf](./PDF_Slides/离散数学chapter04.pdf)|
 | 数理逻辑第五章|[Lecture 7 离散数学-数理逻辑-Chapter05.pdf](./PDF_Slides/离散数学chapter05.pdf)|
-| 数理逻辑第九章                |      |
-| 数理逻辑第十章                   |      |
-| 数理逻辑第十一章 |      |
+| 集合论第九章|[Lecture 8 离散数学-集合论-Chapter09.pdf](./PDF_Slides/第九章_集合论.pdf)|第九章_集合论
+| 集合论第十章|      |
+| 集合论第十一章 |      |
 | 复习                    |      |
 
 
