@@ -62,3 +62,5 @@
 ![image-3](imgs/3.jpg)
 7.必要条件是D
 ![image-4](imgs/4.jpg)
+8.就是无法判断，y是自由变元，这不是命题
+![image-5](imgs/5.png)
