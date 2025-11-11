@@ -68,7 +68,7 @@
 ![image-6](imgs/1-错误.png)
 正确：
 ![image-7](imgs/1-正确.png)
-9.第九章PPT-p33，错误处：
+10.第九章PPT-p33，错误处：
 ![image-6](imgs/2-错误.png)
 正确：
 ![image-7](imgs/2-正确.png)
