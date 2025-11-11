@@ -64,3 +64,11 @@
 ![image-4](imgs/4.jpg)
 8.就是无法判断，y是自由变元，这不是命题
 ![image-5](imgs/5.png)
+9.第九章PPT-p14，错误处：
+![image-6](imgs/1-错误.png)
+正确：
+![image-7](imgs/1-正确.png)
+9.第九章PPT-p33，错误处：
+![image-6](imgs/2-错误.png)
+正确：
+![image-7](imgs/2-正确.png)
