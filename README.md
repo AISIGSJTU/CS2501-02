@@ -48,6 +48,8 @@
 - [图论第三章 补充题](./PDF_Slides/离散数学-图论-Chapter03-Exercises.pdf)
 - [数理逻辑 补充题](./PDF_Slides/数理逻辑习题.pdf)
 - [数理逻辑 补充题答案](./PDF_Slides/数理逻辑参考答案.pdf)
+- [集合论 补充题](./PDF_Slides/集合论习题.pdf)
+- [集合论 补充题答案](./PDF_Slides/集合论习题参考答案.pdf)
 
 ## 勘误
 
